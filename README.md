@@ -1,6 +1,6 @@
 <h1>ExpNo 6 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name: MOHAMED ABDULLAH A</h3>
-<h3>Register Number: 212224020029</h3>
+<h3>Name: KOTTESHWARI M</h3>
+<h3>Register Number: 212224020023</h3>
 <H3>Aim:</H3>
 <p>
     Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
